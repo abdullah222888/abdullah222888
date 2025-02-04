@@ -86,9 +86,10 @@
 ---
 
 ### 💡 **Featured Projects**
-- [Sleek Chat App](https://github.com/abdullah222888/sleek-chat) - A real-time chat application built with React and Firebase.
-- [Portfolio Website](http://abdullahportfolio.excyan.com) - My personal portfolio showcasing my projects and skills.
-- [AI-Powered Blog Generator](https://github.com/abdullah222888/ai-blog-generator) - An AI-driven tool to generate blog posts automatically.
+- [Captain Chef](https://github.com/abdullah222888/captain-chef) - A recipe-sharing platform where users can discover, share, and rate recipes. Built with **React** and **Firebase**.
+- [SMLE Guide](https://github.com/abdullah222888/smle-guide) - A comprehensive study guide for medical students preparing for the SMLE exam. Built with **React** and **Node.js**.
+- [Your Ears](https://github.com/abdullah222888/your-ears) - A music streaming platform that allows users to upload, share, and listen to music. Built with **MERN Stack**.
+- [Study Collaborative Platform](https://github.com/abdullah222888/study-collab) - A platform for students to collaborate on study materials, share notes, and organize study sessions. Built with **Flutter** and **Firebase**.
 
 ---
 
